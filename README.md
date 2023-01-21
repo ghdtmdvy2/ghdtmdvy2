@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seungpyo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seungpyo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
   
   ####  :wave: Welcome my github profile ! :wave:
   <br/>
