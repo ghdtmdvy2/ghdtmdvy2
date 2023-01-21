@@ -1,7 +1,10 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seungpyo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
+  
+  ####  :wave: Welcome my github profile !
+  <br/>
+ <br/>
 
   ![Seungpyo's github stats](https://github-readme-stats.vercel.app/api?username=ghdtmdvy2&show_icons=true)
 
