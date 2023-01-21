@@ -7,7 +7,7 @@
   
   ####  📖 My blog 📖
   
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white">
+  <a href="https://www.notion.so/myhongnote/0d12bccb39b24eccbae9d3d6d73f5df4"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></a>
   
   ####  ⚒️ Tech stack ⚒️
   
