@@ -5,9 +5,12 @@
   ####  :wave: Welcome my github profile ! :wave:
   <br/>
   
-  ####  📖 My blog 📖
+  ####     📖 My blog 📖
   
   <a href="https://www.notion.so/myhongnote/0d12bccb39b24eccbae9d3d6d73f5df4"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></a>
+  
+  ####  🔰 My BOJ Level 🔰
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtmdvy2)](https://solved.ac/ghdtmdvy2/)
   
   ####  ⚒️ Tech stack ⚒️
   
@@ -23,13 +26,8 @@
 <img src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=Docker&logoColor=white">
   
   <br/>
-  <br/>
-  
-  <br/>
-  
-  
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtmdvy2)](https://solved.ac/ghdtmdvy2/)
+  ####  🐈‍⬛ Github status 🐈‍⬛
 
   ![Seungpyo's github stats](https://github-readme-stats.vercel.app/api?username=ghdtmdvy2&show_icons=true)
   [![Seungpyo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ghdtmdvy2&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ghdtmdvy2)
